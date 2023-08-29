@@ -4,5 +4,11 @@ network id, network subnet mask, total hosts, type of addressing, address range 
 network, broadcast address,CIDR representation etc.</br>
 The application is programmed in python and UI is created using python's Tkinter library.
 
-# Application Interface
+# Cloning and Running application
+git clone https://github.com/ctrl-Surinder/IP-calculator
+cd IP-calculator 
+python3 UI.py
 
+# Application Interface
+![alt text](https://github.com/ctrl-Surinder/IP-calculator/blob/main/resources/IpCap1.png)
+![alt text](https://github.com/ctrl-Surinder/IP-calculator/blob/main/resources/IPCap2.png)
